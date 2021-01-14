@@ -1,7 +1,7 @@
 ## Hi, I am Alex Pogorelov.
 
 I have a great desire to become a truly professional Front End developer.I feel enough strength and skills in me for further progress.
-Love to solve Kata on codewars.com, you can find me there aka AlexPogorelov
+Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me there aka [AlexPogorelov](https://www.codewars.com/users/AlexPogorelov)
 
 **Career objective:**
 
