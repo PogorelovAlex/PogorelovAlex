@@ -26,7 +26,7 @@ Construction:
 Peter the Great St.Petersburg Polytecnic University (SPbPU), Faculty of Construction, specialization: Industrial and civil construction of unique buildings and structures.
 
 
-**Courses**
+**Courses:**
 
 **2020**
 
@@ -34,9 +34,9 @@ Peter the Great St.Petersburg Polytecnic University (SPbPU), Faculty of Construc
 
 **My projects:**
 * Markup
- * [Movee](https://pogorelovalex.github.io/movee/)  non-responsive site
- * [SenseCake](https://pogorelovalex.github.io/sensecake/)   responsive bakery site
+  * [Movee](https://pogorelovalex.github.io/movee/)  non-responsive site
+  * [SenseCake](https://pogorelovalex.github.io/sensecake/)   responsive bakery site
  
  * JS tasks
-  * [Calculator](https://pogorelovalex.github.io/calculator/)  Task for  [RS School](https://rs.school/)
-  * [Momentum](https://pogorelovalex.github.io/momentum/) T ask for  [RS School](https://rs.school/)
+   * [Calculator](https://pogorelovalex.github.io/calculator/)  Task for  [RS School](https://rs.school/)
+   * [Momentum](https://pogorelovalex.github.io/momentum/) T ask for  [RS School](https://rs.school/)
