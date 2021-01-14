@@ -8,10 +8,10 @@ Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me
 Front End developer
 
 **My tech stack:** 
--Responsive web-development: HTML5, CSS/SCSS;
--Frontend: JavaScript (ES5/ES6);
--Code bundlers: Gulp, Webpack;
--Graphic Editors: Adobe Photoshop, Figma;
+* Responsive web-development: HTML5, CSS/SCSS;
+* Frontend: JavaScript (ES5/ES6);
+* Code bundlers: Gulp, Webpack;
+* Graphic Editors: Adobe Photoshop, Figma;
 
 
 **Languages** :
@@ -33,10 +33,10 @@ Peter the Great St.Petersburg Polytecnic University (SPbPU), Faculty of Construc
  Orange Systems Academy, Front-end edition.
 
 **My projects:**
-*Markup
- * [Movee](https://pogorelovalex.github.io/movee/)non-responsive site
+* Markup
+ * [Movee](https://pogorelovalex.github.io/movee/) non-responsive site
  * [SenseCake](https://pogorelovalex.github.io/sensecake/)responsive bakery site
  
- *JS tasks
-  *[Calculator](https://pogorelovalex.github.io/calculator/) Task for [RS School](https://rs.school/)
-  *[Momentum](https://pogorelovalex.github.io/momentum/) Task for [RS School](https://rs.school/)
+ * JS tasks
+  * [Calculator](https://pogorelovalex.github.io/calculator/) Task for [RS School](https://rs.school/)
+  * [Momentum](https://pogorelovalex.github.io/momentum/) Task for [RS School](https://rs.school/)
