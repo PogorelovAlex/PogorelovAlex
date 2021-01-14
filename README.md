@@ -39,4 +39,4 @@ Peter the Great St.Petersburg Polytecnic University (SPbPU), Faculty of Construc
  
  * JS tasks
    * [Calculator](https://pogorelovalex.github.io/calculator/)  Task for  [RS School](https://rs.school/)
-   * [Momentum](https://pogorelovalex.github.io/momentum/) T ask for  [RS School](https://rs.school/)
+   * [Momentum](https://pogorelovalex.github.io/momentum/)  Task for  [RS School](https://rs.school/)
