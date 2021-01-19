@@ -35,8 +35,8 @@ Peter the Great St.Petersburg Polytecnic University (SPbPU), Faculty of Construc
 **My projects:**
 * Markup
   * [Movee](https://pogorelovalex.github.io/movee/)  non-responsive site
-  * [Shelter](https://pogorelovalex.github.io/shelter/)  non-responsive site
-  * [SenseCake](https://pogorelovalex.github.io/sensecake/)   responsive bakery site
+  * [Shelter](https://pogorelovalex.github.io/shelter/)  non-responsive site Task for  [RS School](https://rs.school/)
+  * [SenseCake](https://pogorelovalex.github.io/sensecake/)    responsive bakery site 
  
  * JS tasks
    * [Calculator](https://pogorelovalex.github.io/calculator/)  Task for  [RS School](https://rs.school/)
