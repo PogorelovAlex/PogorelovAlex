@@ -35,7 +35,7 @@ Peter the Great St.Petersburg Polytecnic University (SPbPU), Faculty of Construc
 **My projects:**
 * Markup
   * [Movee](https://pogorelovalex.github.io/movee/)  non-responsive site
-  * [Shelter](https://pogorelovalex.github.io/shelter/)  non-responsive site Task for  [RS School](https://rs.school/)
+  * [Shelter]( https://pogorelovalex.github.io/shelterRS/)  non-responsive site Task for  [RS School](https://rs.school/)
   * [Wildlife](https://pogorelovalex.github.io/wildlife/#) non-responsive site Task for  [RS School](https://rs.school/)
  
  * JS tasks
