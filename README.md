@@ -33,6 +33,10 @@ Peter the Great St.Petersburg Polytecnic University (SPbPU), Faculty of Construc
  Orange Systems Academy, Front-end edition.
 
 **My projects:**
+* React JS
+
+  * [ArcDevelopment]( https://github.com/PogorelovAlex/ArcDevelopment/) responsive site + React JS + Material UI. 
+  
 * Markup
 
   * [Shelter]( https://pogorelovalex.github.io/shelterRS/) responsive site + JS - burger-menu. Task for  [RS School](https://rs.school/)
