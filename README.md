@@ -35,7 +35,7 @@ Peter the Great St.Petersburg Polytecnic University (SPbPU), Faculty of Construc
 **My projects:**
 * React JS
 
-  * [ArcDevelopment]( https://github.com/PogorelovAlex/ArcDevelopment/) responsive site + React JS + Material UI. 
+  * [ArcDevelopment]( https://pogorelovalex.github.io/ArcDevelopment/#/) responsive site + React JS + Material UI. 
   
 * Markup
 
