@@ -8,33 +8,27 @@ Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me
 Front End developer
 
 **My tech stack:** 
+* Frontend: React,MobX,Redux;
+* Backend: Node.js,Express;
+* Testing: Jest;
+* Database: PostgreSQL, MongoDB;
 * Responsive web-development: HTML5, CSS/SCSS;
-* Frontend: JavaScript (ES5/ES6);
 * Code bundlers: Gulp, Webpack;
 * Graphic Editors: Adobe Photoshop, Figma;
 
 
-**Languages** :
-
-Speaking English(B1), Russian(native).
-
-**Education:**
-**2014-2018**
-
-Construction:
-
-Peter the Great St.Petersburg Polytecnic University (SPbPU), Faculty of Construction, specialization: Industrial and civil construction of unique buildings and structures.
-
-
-**Courses:**
-
-**2020**
-
- Orange Systems Academy, Front-end edition.
-
 **My projects:**
-* React JS
 
+* Node.js + React
+  * [Reg-app]( https://github.com/PogorelovAlex/reg_app) 
+   Stack: 
+   * frontend: React + MobX + Material Ui + Typescript
+   * backend: Node.js(Express) + Typescript
+   * DB:  PostgreSQL 
+   
+
+* React JS
+  * [Pokedex]( https://github.com/PogorelovAlex/pokemon_app) application + React JS + Material UI. 
   * [ArcDevelopment]( https://pogorelovalex.github.io/ArcDevelopment/#/) responsive site + React JS + Material UI. 
   
 * Markup
@@ -46,3 +40,25 @@ Peter the Great St.Petersburg Polytecnic University (SPbPU), Faculty of Construc
  * JS tasks
    * [Calculator](https://pogorelovalex.github.io/calculator/)  Task for  [RS School](https://rs.school/)
    * [Momentum](https://pogorelovalex.github.io/momentum/)  Task for  [RS School](https://rs.school/)
+  
+  **Languages** :
+
+Speaking English(C1), Russian(native).
+
+**Education:**
+**2014-2018**
+
+Construction:
+
+Peter the Great St.Petersburg Polytecnic University (SPbPU), Faculty of Construction, specialization: Industrial and civil construction of unique buildings and structures.
+
+
+**Courses:**
+
+**2021**
+
+Epam Systems, Javascript developer course.
+
+**2020**
+
+ Orange Systems Academy, Front-end edition.
