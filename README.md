@@ -8,8 +8,8 @@ Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me
 Front End developer
 
 **My tech stack:** 
-* Frontend: React,MobX,Redux;
-* Backend: Node.js,Express;
+* Frontend: React, MobX, Redux;
+* Backend: Node.js, Express;
 * Testing: Jest;
 * Database: PostgreSQL, MongoDB;
 * Responsive web-development: HTML5, CSS/SCSS;
