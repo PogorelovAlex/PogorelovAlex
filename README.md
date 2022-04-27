@@ -63,13 +63,6 @@ Javascript developer
 
 Epam Systems, Javascript Laboratory.
 
-**2014-2018**
-
-Construction:
-
-Peter the Great St.Petersburg Polytecnic University (SPbPU), Faculty of Construction, specialization: Industrial and civil construction of unique buildings and structures.
-
-
 **Courses:**
 
 **2021**
@@ -80,6 +73,10 @@ Epam Systems, Javascript developer course.
 
  Orange Systems Academy, Front-end edition.
  
+**2014-2018**
+
+Peter the Great St.Petersburg Polytecnic University (SPbPU), Faculty of Construction, specialization: Industrial and civil construction of unique buildings and structures. 
+
  **Languages** :
 
 Speaking English(B2), Russian(native).
