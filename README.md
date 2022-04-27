@@ -83,6 +83,7 @@ Speaking English(B2), Russian(native).
 
 **Contacts**
 [Telegram]( https://t.me/Kimledov)
+
 Email: alexeipogorelovbn@yandex.ru
 
 **Резюме Погорелов Алексей [HH.ru]( https://spb.hh.ru/applicant/resumes/view?resume=4386b3afff063805be0039ed1f724449477450)**
