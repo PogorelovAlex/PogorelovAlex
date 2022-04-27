@@ -32,7 +32,7 @@ Javascript developer
 
 **Project in Epam Systems Javascript Course**
 
-* Created frontend part with React.
+* Created frontend part with React [Pokedex]( https://github.com/PogorelovAlex/pokemon_app).
 * Used Axios and hooks.
 * Used Redux for state managment.
 
