@@ -5,7 +5,7 @@ Love to solve Kata on [codewars.com](https://www.codewars.com/), you can find me
 
 **Career objective:**
 
-Front End developer
+Javascript developer
 
 **My tech stack:** 
 * Frontend: React, MobX, Redux;
@@ -16,6 +16,25 @@ Front End developer
 * Code bundlers: Gulp, Webpack;
 * Graphic Editors: Adobe Photoshop, Figma;
 
+**Experience:**
+
+**Project in Epam Systems**
+
+* Сreated the backend part for online store with Node.js(Express).
+* Provided functionality for user authorization and verification.
+* Worked with the database using PostgreSQL.
+* Used Typescript.
+* Used Sequalize ORM.
+* Wrote unit tests with Jest.
+* In the process of development used Postman.
+* Worked according to SCRUM methodology.
+* Used Git, Jira.
+
+**Project in Epam Systems Javascript Course**
+
+* Created frontend part with React.
+* Used Axios and hooks.
+* Used Redux for state managment.
 
 **My projects:**
 
@@ -28,7 +47,7 @@ Front End developer
    
 
 * React JS
-  * [Pokedex]( https://github.com/PogorelovAlex/pokemon_app) application + React JS + Material UI. 
+  * [Pokedex]( https://github.com/PogorelovAlex/pokemon_app) application + React JS + Material UI.Implementation backend part for online store 
   * [ArcDevelopment]( https://pogorelovalex.github.io/ArcDevelopment/#/) responsive site + React JS + Material UI. 
   
 * Markup
@@ -37,15 +56,13 @@ Front End developer
   * [Wildlife](https://pogorelovalex.github.io/wildlife/#) non-responsive site + JS Slider Task for  [RS School](https://rs.school/)
   * [Movee](https://pogorelovalex.github.io/movee/)  non-responsive site
   
- * JS tasks
-   * [Calculator](https://pogorelovalex.github.io/calculator/)  Task for  [RS School](https://rs.school/)
-   * [Momentum](https://pogorelovalex.github.io/momentum/)  Task for  [RS School](https://rs.school/)
-  
-  **Languages** :
-
-Speaking English(C1), Russian(native).
 
 **Education:**
+
+**2021-2022**
+
+Epam Systems, Javascript Laboratory.
+
 **2014-2018**
 
 Construction:
@@ -62,3 +79,7 @@ Epam Systems, Javascript developer course.
 **2020**
 
  Orange Systems Academy, Front-end edition.
+ 
+ **Languages** :
+
+Speaking English(C1), Russian(native).
