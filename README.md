@@ -83,3 +83,5 @@ Epam Systems, Javascript developer course.
  **Languages** :
 
 Speaking English(B2), Russian(native).
+
+** Резюме [HH.ru]( https://spb.hh.ru/applicant/resumes/view?resume=4386b3afff063805be0039ed1f724449477450)
